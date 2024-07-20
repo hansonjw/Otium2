@@ -1,4 +1,4 @@
-#!/Users/justinhanson/prepos/otium2/.venv/bin/python3.11
+#!/Users/justinhanson/prepos/otium2/.venv/bin/python3.12
 
 import datetime
 import os
